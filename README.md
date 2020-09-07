@@ -3,7 +3,7 @@ Use this app to decode Guarda Wallet Backup.
 Clone the repository, go to a folder with the repository and install the dependencies
 ```
 $ git clone git@github.com:guardaco/guarda-backup-decoder.git
-$ cd guarda-backup-decode
+$ cd guarda-backup-decoder
 $ npm install
 ```
 When all the dependencies installed, you can launch the app.
